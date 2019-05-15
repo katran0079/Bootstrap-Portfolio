@@ -1,0 +1,44 @@
+#navbarNav {
+  position: absolute;
+  left: 1000px;
+}
+
+.inner_header {
+  width: 300px;
+  height: 70px;
+  position: absolute;
+  left: 150px;
+  background: rgb(151, 164, 206);
+  top: 0;
+}
+
+.navbar-brand h1 {
+  position: absolute;
+  left: 20px;
+  color: black;
+  height: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: bold;
+}
+
+#navbarz {
+  background-color: burlywood;
+  height: 70px;
+  position: absolute;
+  width: 100%;
+}
+
+#navlinks a {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: underline;
+}
+
+.jumbotron {
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+  top: 200px;
+  background-color: rgb(151, 164, 206);
+  border: 10px solid burlywood;
+}
