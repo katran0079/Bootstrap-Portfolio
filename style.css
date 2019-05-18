@@ -42,3 +42,35 @@
   background-color: rgb(151, 164, 206);
   border: 10px solid burlywood;
 }
+
+.test {
+  text-decoration: underline;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: underline;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgrey;
+  color: black;
+  text-align: center;
+  border: 3px solid black;
+  height: 30px;
+}
+
+.footer p {
+  line-height: 10px;
+}
